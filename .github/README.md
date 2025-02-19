@@ -25,9 +25,9 @@
   <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#deprecated">Deprecated</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
+  <a href="#sponsor">Sponsor</a> •
   <a href="#license">License</a>
 </p>
 
@@ -118,10 +118,6 @@ Do you **need some help**? Check out the _articles_ on the [wiki](https://github
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
-        
-## Deprecated
-
-Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
 ## Credits
 
@@ -132,6 +128,10 @@ Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/
 ## Support
 
 Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
+
+## Sponsor
+
+[![License: CC0-1.0](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%5E%5E-green?style=flat&logo=undertale&logoColor=green&color=white)](https://github.com/sponsors/armync)
 
 ## License
 
