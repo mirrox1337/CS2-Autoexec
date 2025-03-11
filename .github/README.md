@@ -131,7 +131,7 @@ Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
 
 ## Sponsor
 
-[![License: CC0-1.0](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%5E%5E-green?style=flat&logo=undertale&logoColor=green&color=white)](https://github.com/sponsors/armync)
+[![Donation](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%5E%5E-green?style=flat&logo=undertale&logoColor=green&color=white)](https://github.com/sponsors/armync)
 
 ## License
 
